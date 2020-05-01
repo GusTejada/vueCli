@@ -1,2 +1,3 @@
 # vueCli2
-Hola 
+
+Scaffolding to create projects Vue 2
